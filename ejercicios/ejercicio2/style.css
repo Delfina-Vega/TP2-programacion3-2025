@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    color: #454444;
+}
+
+input {
+    padding: 8px;
+    margin: 15px;
+    font-size: 16px;
+}
+
+button {
+    padding: 15px 25px;
+    font: size 16px;
+}
